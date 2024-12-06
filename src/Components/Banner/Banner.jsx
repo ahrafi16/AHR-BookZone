@@ -16,7 +16,8 @@ const Banner = () => {
 
             </div>
             <div className='w-[318px]'>
-                <img src="../../../Images/rb_2149334866.png" alt="" />
+                {/* <img src="../../../Images/rb_2149334866.png" alt="" /> */}
+                <img src="https://deckchairjourneys.com/wp-content/uploads/2019/06/book_guide_hero_books.png" alt="" />
             </div>
         </div>
     );
