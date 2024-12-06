@@ -1,0 +1,206 @@
+[
+  {
+    "bookId": "1",
+    "bookName": "The Black Coat",
+    "author": "Nabina Das",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvnXmSLNEDuZO-8eabz9swWzyIVFN041tTb9wiasYs2fcjVQM6BBonNcSTTSTMjJqztE4&usqp=CAU",
+    "review": "A brilliant exploration of identity, class, and the complexities of being an outsider. The narrative takes readers on an emotional journey, showcasing the tensions in a divided society.",
+    "totalPages": 256,
+    "rating": 4.3,
+    "category": "Fiction",
+    "tags": [
+      "Drama",
+      "Identity",
+      "Society"
+    ],
+    "publisher": "Sampad",
+    "yearOfPublishing": 2021
+  },
+  {
+    "bookId": "2",
+    "bookName": "The Fateful Years",
+    "author": "Abdul Gaffar Chowdhury",
+    "image": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1306315952i/11454641.jpg",
+    "review": "A compelling historical narrative that uncovers the events leading to the independence of Bangladesh. Written by an iconic journalist, it offers deep insights into the nation’s struggle for freedom.",
+    "totalPages": 330,
+    "rating": 4.7,
+    "category": "History",
+    "tags": [
+      "Bangladesh",
+      "Independence",
+      "Politics"
+    ],
+    "publisher": "Bangla Academy",
+    "yearOfPublishing": 1971
+  },
+  {
+    "bookId": "3",
+    "bookName": "Chhaya Bhabna",
+    "author": "Humayun Ahmed",
+    "image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/2a90286bd254_1199.gif",
+    "review": "A tender story of love, loss, and self-discovery. Humayun Ahmed brings his unique narrative style to this emotional and philosophical tale, blending reality and imagination.",
+    "totalPages": 180,
+    "rating": 4.6,
+    "category": "Romance",
+    "tags": [
+      "Love",
+      "Self-discovery",
+      "Philosophical"
+    ],
+    "publisher": "Ananda Publishers",
+    "yearOfPublishing": 2004
+  },
+  {
+    "bookId": "4",
+    "bookName": "Purnima",
+    "author": "Selina Hossain",
+    "image": "https://ds.rokomari.store/rokomari110/ProductNew20190903/260X372/ed509fac3_33080.jpg",
+    "review": "Set in rural Bangladesh, 'Purnima' is a touching story of struggle, resilience, and hope. Selina Hossain beautifully captures the heart of the village life while addressing larger issues like poverty and gender inequality.",
+    "totalPages": 220,
+    "rating": 4.4,
+    "category": "Drama",
+    "tags": [
+      "Rural life",
+      "Gender",
+      "Struggle"
+    ],
+    "publisher": "Jatiyo Grantha Kendro",
+    "yearOfPublishing": 1995
+  },
+  {
+    "bookId": "5",
+    "bookName": "Khawar",
+    "author": "Shawkat Osman",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQa72ZmWrP5LFGUuJ2GBZ-2dax-Jylerdr0hw&s",
+    "review": "A poignant and gripping narrative about the impact of war on personal lives. Shawkat Osman delves deep into human emotions, revealing the complex interplay between duty and personal desires.",
+    "totalPages": 340,
+    "rating": 4.8,
+    "category": "War Fiction",
+    "tags": [
+      "War",
+      "Emotion",
+      "Duty"
+    ],
+    "publisher": "Pathak Shamabesh",
+    "yearOfPublishing": 1973
+  },
+  {
+    "bookId": "6",
+    "bookName": "Jibon Dhara",
+    "author": "Zahir Raihan",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR227dAKArP7b-2piimoEdNuZ7t2IYHkt0t3hIL5FjWPAcGAI0uAsHg_LQTCTI0phoRaJA&usqp=CAU",
+    "review": "A remarkable literary piece that focuses on the human condition and social issues in Bangladesh. The novel is an intricate exploration of love, struggle, and the pursuit of justice.",
+    "totalPages": 310,
+    "rating": 4.5,
+    "category": "Literature",
+    "tags": [
+      "Social issues",
+      "Human condition",
+      "Justice"
+    ],
+    "publisher": "Shahitya Prokash",
+    "yearOfPublishing": 1967
+  },
+  {
+    "bookId": "7",
+    "bookName": "The Silent River",
+    "author": "Shirin Akter",
+    "image": "https://musicart.xboxlive.com/7/40ac6200-0000-0000-0000-000000000002/504/image.jpg?w=1920&h=1080",
+    "review": "A beautiful, melancholic novel about the power of silence, The Silent River explores the delicate relationships between family, love, and identity amidst the backdrop of societal pressures.",
+    "totalPages": 280,
+    "rating": 4.2,
+    "category": "Fiction",
+    "tags": [
+      "Love",
+      "Family",
+      "Identity"
+    ],
+    "publisher": "Prothoma Prokashon",
+    "yearOfPublishing": 2015
+  },
+  {
+    "bookId": "8",
+    "bookName": "Echoes of the Past",
+    "author": "Amitav Ghosh",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhJxcgxkXAKCNWA5TDw6a7igNvz8CgnuFiLw&s",
+    "review": "Echoes of the Past is an evocative tale that spans generations, revealing the complex interplay between historical events and personal lives. Ghosh’s narrative delves deep into the legacy of colonialism and its enduring impact.",
+    "totalPages": 420,
+    "rating": 4.6,
+    "category": "Historical Fiction",
+    "tags": [
+      "Colonialism",
+      "Legacy",
+      "Family"
+    ],
+    "publisher": "Penguin India",
+    "yearOfPublishing": 2003
+  },
+  {
+    "bookId": "9",
+    "bookName": "The Blue Sky",
+    "author": "Tariq Rahman",
+    "image": "https://m.media-amazon.com/images/M/MV5BYjMxYTUyMGYtZWJjNS00NzI1LTkzOTItOTQ2YjU2OTc3NzA2XkEyXkFqcGc@._V1_QL75_UX140_CR0,1,140,207_.jpg",
+    "review": "The Blue Sky is a poetic journey of self-discovery set against the backdrop of nature. Tariq Rahman’s simple yet profound prose captures the essence of freedom and the search for meaning in a tumultuous world.",
+    "totalPages": 270,
+    "rating": 4.4,
+    "category": "Poetry",
+    "tags": [
+      "Freedom",
+      "Nature",
+      "Self-discovery"
+    ],
+    "publisher": "Bangla Academy",
+    "yearOfPublishing": 2008
+  },
+  {
+    "bookId": "10",
+    "bookName": "The Lost City",
+    "author": "Zakir Hossain",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbVO1KJ7MfMI3kW6g0DBUqFvVIb5EtPwVVsA&s",
+    "review": "An adventure novel that takes readers on a thrilling expedition to find a lost city in the dense jungles of South Asia. Zakir Hossain masterfully blends history with adventure in this exciting and page-turning narrative.",
+    "totalPages": 350,
+    "rating": 4.7,
+    "category": "Adventure",
+    "tags": [
+      "Adventure",
+      "Exploration",
+      "Mystery"
+    ],
+    "publisher": "Samaj Prokashan",
+    "yearOfPublishing": 2010
+  },
+  {
+    "bookId": "11",
+    "bookName": "Waves of Life",
+    "author": "Mahmuda Ahmed",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCrmU7oeZk7G_OXIktVxFqFq18E_2Wd9R4Qw&s",
+    "review": "Waves of Life is a profound exploration of human resilience in the face of adversity. Mahmuda Ahmed’s lyrical prose reflects on life's inevitable ups and downs, encouraging readers to embrace change and grow.",
+    "totalPages": 310,
+    "rating": 4.5,
+    "category": "Philosophical",
+    "tags": [
+      "Resilience",
+      "Change",
+      "Growth"
+    ],
+    "publisher": "Muktodhara",
+    "yearOfPublishing": 2018
+  },
+  {
+    "bookId": "12",
+    "bookName": "A Journey Beyond Borders",
+    "author": "Rumana Sultana",
+    "image": "https://m.media-amazon.com/images/I/71qYvxppDSL._AC_UF1000,1000_QL80_.jpg",
+    "review": "A powerful memoir that captures the personal journey of an individual who grew up in a divided world, bridging cultures and identities. Rumana Sultana’s story of resilience and exploration is inspiring and moving.",
+    "totalPages": 400,
+    "rating": 4.8,
+    "category": "Memoir",
+    "tags": [
+      "Identity",
+      "Culture",
+      "Exploration"
+    ],
+    "publisher": "HarperCollins",
+    "yearOfPublishing": 2020
+  }
+]
